@@ -1,1 +1,5 @@
 # Automation-tests
+1. Installed node.js, protractor and JDK.
+2. Configured the conf.js file
+3. Added the test steps to test.js
+4. Ran the tests with 'protractor conf.js' command in bash.
